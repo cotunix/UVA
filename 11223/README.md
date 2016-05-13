@@ -1,0 +1,1 @@
+This one was quite a pain. It seemed very easy to begin with, but dealing with the spaces in between words was likely the hardest part of this. I learned about get() and peek() through this, and I don't think there was a way to do it without using get() and peek(). Hardcoding the values was also quite a pain, but the logic behind the real solution wasn't too bad.
